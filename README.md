@@ -27,18 +27,13 @@ This repository contains an implementation of a Deep Neural Network (DNN) from s
 ### Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mnist-dnn-classification.git
-   cd mnist-dnn-classification
+   git clone https://github.com/lielbin1/Deep-Neural-Netwotk.git
+   cd Deep-Neural-Netwotk
    ```
 
-2. **Install dependencies**:
+2. **Run the Jupyter notebook**:
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter notebook**:
-   ```bash
-   jupyter notebook MNIST_Classification.ipynb
+   jupyter notebook DNN.ipynb
    ```
 
 4. **Train the Model**:
